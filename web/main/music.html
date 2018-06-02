@@ -14,7 +14,9 @@
         }
     </style>
     <!--<script type="text/babel"></script>-->
-    <script type="text/javascript" src="http://code.jquery.com/jquery.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script type="text/javascript">
         $(function() {
             $.getJSON("music.json", function(data) {
@@ -25,18 +27,52 @@
                       +"<td><img src="+value.poster+" width=60 height=60></td>"
                       +"<td>"+value.title+"</td>"
                       +"<td>"+value.singer+"</td>"
-                      +"<td><input type=button class='btn btn-sm btn-primary' value='동영상'/></td>"
+                      +"<td><input type=button class='btn btn-sm btn-primary' value='동영상' onclick='movie_play("+value.rank+")'/></td>"
                       + "</tr>"
                     );
                });
             });
+
+            $('#data').keyup(function () {
+                var k = $(this).val();
+                $('#user-table > tbody > tr').hide();
+                var temp = $('#user-table > tbody > tr > td:nth-child(5n+3):contains("'+k+'")');
+                $(temp).parent().show();
+            });
         });
+        function movie_play(rank) {
+            $.getJSON("music.json", function(data) {
+                $.each(data['datas'],function(key, value) {
+                    if (value.rank == rank) {
+                        var playKey = "http://www.youtube.com/embed/"+value.key;
+                        $("#key").attr("src", playKey);
+                        $("#title").text(value.title);
+                        $("#rank").text(value.rank);
+                        $("#singer").text(value.singer);
+                        $("#dialog").dialog({
+                            modal: true,
+                            width: 600,
+                            height: 450
+                        });
+                        return false;
+                    }
+                });
+            });
+        }
     </script>
 </head>
 <body>
+
     <div class="container">
+        <h2>뮤직 Top50</h2>
         <div class="row">
-            <table class="table table-hover">
+            <div class="form-group">
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="data" placeholder="Enter Find Data">
+                </div>
+                <input type="button" value="검색" class="btn btn-sm btn-success">
+            </div>
+            <table id="user-table" class="table table-hover">
                 <thread>
                     <tr class="danger">
                         <th>순위</th>
@@ -49,6 +85,24 @@
                 <tbody id="music">
 
                 </tbody>
+            </table>
+        </div>
+        <div id="dialog" title="동영상" style="display: none">
+            <table class="table">
+                <tr>
+                    <td width="50%" class="text-center" rowspan="3">
+                        <embed id="key" src="" width="300" height="250">
+                    </td>
+                    <td id="title" colspan="2" class="text-center info"></td>
+                </tr>
+                <tr>
+                    <td width="20%" class="text-right">순위</td>
+                    <td id="rank" width="30%" class="text-left"></td>
+                </tr>
+                <tr>
+                    <td width="20%" class="text-right">가수명</td>
+                    <td id="singer" width="30%" class="text-left"></td>
+                </tr>
             </table>
         </div>
     </div>
