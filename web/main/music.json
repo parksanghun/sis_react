@@ -1,0 +1,354 @@
+﻿{
+  "datas": [
+    {
+      "singer": "볼빨간사춘기",
+      "rank": 1,
+      "title": "여행",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/067\/442\/81067442_1527144018226_1_140x140.JPG",
+      "key": "xRbPAVnqtcs"
+    },
+    {
+      "singer": "방탄소년단",
+      "rank": 2,
+      "title": "FAKE LOVE",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/066\/390\/81066390_1526628038300_1_140x140.JPG",
+      "key": "7C2z4GqqS5E"
+    },
+    {
+      "singer": "AOA",
+      "rank": 3,
+      "title": "빙글뱅글 (Bingle Bangle)",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/068\/168\/81068168_1527493688426_1_140x140.JPG",
+      "key": "ntWSnDV0MYs"
+    },
+    {
+      "singer": "여자친구 (GFRIEND)",
+      "rank": 4,
+      "title": "밤 (Time for the moon night)",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/059\/187\/81059187_1525072803622_1_140x140.JPG",
+      "key": "_XyBa8QsVQU"
+    },
+    {
+      "singer": "로꼬 & 화사 (마마무)",
+      "rank": 5,
+      "title": "주지마",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/056\/930\/81056930_1524214278122_1_140x140.JPG",
+      "key": "LS74a_bbOgE"
+    },
+    {
+      "singer": "닐로 (Nilo)",
+      "rank": 6,
+      "title": "지나오다",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/080\/997\/959\/80997959_1509347822288_1_140x140.JPG",
+      "key": "nZbUcmvW4TA"
+    },
+    {
+      "singer": "(여자)아이들",
+      "rank": 7,
+      "title": "LATATA",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/060\/005\/81060005_1525246031508_1_140x140.JPG",
+      "key": "9mQk7Evt6Vs"
+    },
+    {
+      "singer": "혁오 (HYUKOH)",
+      "rank": 8,
+      "title": "LOVE YA!",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/068\/591\/81068591_1527753157685_1_140x140.JPG",
+      "key": "aKHbqm-D62Y"
+    },
+    {
+      "singer": "TWICE (트와이스)",
+      "rank": 9,
+      "title": "What is Love?",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/051\/631\/81051631_1523256991278_1_140x140.JPG",
+      "key": "i0p1bmr0EmE"
+    },
+    {
+      "singer": "멜로망스 (MeloMance)",
+      "rank": 10,
+      "title": "You",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/024\/535\/81024535_1516340879880_1_140x140.JPG",
+      "key": "uid4xGVmJt8"
+    },
+    {
+      "singer": "iKON",
+      "rank": 11,
+      "title": "사랑을 했다 (LOVE SCENARIO)",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/019\/709\/81019709_1516862241098_1_140x140.JPG",
+      "key": "vecSVX1QYbQ"
+    },
+    {
+      "singer": "SHINee (샤이니)",
+      "rank": 12,
+      "title": "데리러 가 (Good Evening)",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/068\/146\/81068146_1527489612860_1_140x140.JPG",
+      "key": "7dGwk5-QMpc"
+    },
+    {
+      "singer": "김하온 (HAON)",
+      "rank": 13,
+      "title": "붕붕 (Feat. 식케이) (Prod. by GroovyRoom)",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/053\/641\/81053641_1523613436076_1_140x140.JPG",
+      "key": "cDq1vUwM21k"
+    },
+    {
+      "singer": "볼빨간사춘기",
+      "rank": 14,
+      "title": "바람사람",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/067\/442\/81067442_1527144018226_1_140x140.JPG",
+      "key": "H_925lEs4u0"
+    },
+    {
+      "singer": "MOMOLAND (모모랜드)",
+      "rank": 15,
+      "title": "뿜뿜",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/017\/733\/81017733_1514963221459_1_140x140.JPG",
+      "key": "JQGRg8XBnB4"
+    },
+    {
+      "singer": "방탄소년단",
+      "rank": 16,
+      "title": "전하지 못한 진심 (Feat. Steve Aoki)",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/066\/390\/81066390_1526628038300_1_140x140.JPG",
+      "key": "CCsZVW1Y1GM"
+    },
+    {
+      "singer": "폴킴",
+      "rank": 17,
+      "title": "모든 날, 모든 순간 (Every day, Every Moment)",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/044\/453\/81044453_1521524523818_1_140x140.JPG",
+      "key": "9II_GQJ7mKo"
+    },
+    {
+      "singer": "마마무",
+      "rank": 18,
+      "title": "별이 빛나는 밤",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/039\/826\/81039826_1520411845177_1_140x140.JPG",
+      "key": "0FB2EoKTK_Q"
+    },
+    {
+      "singer": "용준형",
+      "rank": 19,
+      "title": "소나기 (Feat. 10cm)",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/045\/626\/81045626_1521703283588_1_140x140.JPG",
+      "key": "rD8iXrvL2EY"
+    },
+    {
+      "singer": "Fitz & The Tantrums",
+      "rank": 20,
+      "title": "HandClap",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/080\/803\/449\/80803449_1458788251030_1_140x140.JPG",
+      "key": "Y2V6yjjPbX0"
+    },
+    {
+      "singer": "M.C The Max 이수",
+      "rank": 21,
+      "title": "My Way",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/001\/791\/81001791_1510301684499_1_140x140.JPG",
+      "key": "PDUgp7sWHr4"
+    },
+    {
+      "singer": "WINNER",
+      "rank": 22,
+      "title": "EVERYDAY",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/048\/893\/81048893_1522824043725_1_140x140.JPG",
+      "key": "d1D1SJ-KqaQ"
+    },
+    {
+      "singer": "볼빨간사춘기",
+      "rank": 23,
+      "title": "야경",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/067\/442\/81067442_1527144018226_1_140x140.JPG",
+      "key": "0o6TvZRVLYo"
+    },
+    {
+      "singer": "장덕철",
+      "rank": 24,
+      "title": "그날처럼",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/007\/399\/81007399_1511854441859_1_140x140.JPG",
+      "key": "v6_GwXU1lkg"
+    },
+    {
+      "singer": "방탄소년단",
+      "rank": 25,
+      "title": "Anpanman",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/066\/390\/81066390_1526628038300_1_140x140.JPG",
+      "key": "pWVtB0ZNn0w"
+    },
+    {
+      "singer": "방탄소년단",
+      "rank": 26,
+      "title": "DNA",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/080\/988\/228\/80988228_1505722039920_1_140x140.JPG",
+      "key": "MBdVXkSdhwU"
+    },
+    {
+      "singer": "청하",
+      "rank": 27,
+      "title": "Roller Coaster",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/022\/313\/81022313_1516159148701_1_140x140.JPG",
+      "key": "900X9fDFLc4"
+    },
+    {
+      "singer": "로이킴",
+      "rank": 28,
+      "title": "그때 헤어지면 돼",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/032\/931\/81032931_1518415830474_1_140x140.JPG",
+      "key": "SkN_hWI6n28"
+    },
+    {
+      "singer": "CRUSH (크러쉬)",
+      "rank": 29,
+      "title": "잊을만하면",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/060\/136\/81060136_1525323197764_1_140x140.JPG",
+      "key": "13xy-si_o6c"
+    },
+    {
+      "singer": "Camila Cabello",
+      "rank": 30,
+      "title": "Havana (Feat. Young Thug)",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/080\/975\/396\/80975396_1515736227928_1_140x140.JPG",
+      "key": "HCjNJDNzw8Y"
+    },
+    {
+      "singer": "길구봉구",
+      "rank": 31,
+      "title": "다시, 우리",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/066\/405\/81066405_1527140692138_1_140x140.JPG",
+      "key": "3h2GGnCX4Us"
+    },
+    {
+      "singer": "방탄소년단",
+      "rank": 32,
+      "title": "봄날",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/080\/921\/195\/80921195_1486716752321_1_140x140.JPG",
+      "key": "xEeFrLSkMm8"
+    },
+    {
+      "singer": "펜타곤 (PENTAGON)",
+      "rank": 33,
+      "title": "빛나리",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/049\/339\/81049339_1522655987120_1_140x140.JPG",
+      "key": "Nu2yQ1zYDYU"
+    },
+    {
+      "singer": "BIGBANG",
+      "rank": 34,
+      "title": "꽃 길",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/041\/934\/81041934_1520923360049_1_140x140.JPG",
+      "key": "wowAOdTYqw8"
+    },
+    {
+      "singer": "멜로망스 (MeloMance)",
+      "rank": 35,
+      "title": "욕심",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/058\/680\/81058680_1524729006042_1_140x140.JPG",
+      "key": "2N1Y9RxAsxg"
+    },
+    {
+      "singer": "멜로망스 (MeloMance)",
+      "rank": 36,
+      "title": "선물",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/080\/964\/912\/80964912_1499671793637_1_140x140.JPG",
+      "key": "qYYJqWsBb1U"
+    },
+    {
+      "singer": "Ed Sheeran",
+      "rank": 37,
+      "title": "Shape Of You",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/080\/911\/494\/80911494_1484644569534_1_140x140.JPG",
+      "key": "JGwWNGJdvx8"
+    },
+    {
+      "singer": "방탄소년단",
+      "rank": 38,
+      "title": "Airplane pt.2",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/066\/390\/81066390_1526628038300_1_140x140.JPG",
+      "key": "Fj3euSYAtnc"
+    },
+    {
+      "singer": "방탄소년단",
+      "rank": 39,
+      "title": "낙원",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/066\/390\/81066390_1526628038300_1_140x140.JPG",
+      "key": "IIs-TMuMZ20"
+    },
+    {
+      "singer": "볼빨간사춘기",
+      "rank": 40,
+      "title": "안녕, 곰인형",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/067\/442\/81067442_1527144018226_1_140x140.JPG",
+      "key": "BoUI2BJn7Do"
+    },
+    {
+      "singer": "볼빨간사춘기",
+      "rank": 41,
+      "title": "Lonely",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/067\/442\/81067442_1527144018226_1_140x140.JPG",
+      "key": "NpTpEsE9G8c"
+    },
+    {
+      "singer": "방탄소년단",
+      "rank": 42,
+      "title": "Love Maze",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/066\/390\/81066390_1526628038300_1_140x140.JPG",
+      "key": "h778hgEP1JI"
+    },
+    {
+      "singer": "닐로 (Nilo)",
+      "rank": 43,
+      "title": "넋두리",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/080\/870\/283\/80870283_1473410434195_1_140x140.JPG",
+      "key": "iPeLEqo2ocs"
+    },
+    {
+      "singer": "펀치 (Punch)",
+      "rank": 44,
+      "title": "이 밤의 끝",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/069\/497\/81069497_1527749221577_1_140x140.JPG",
+      "key": "1PAEqGoPSMc"
+    },
+    {
+      "singer": "방탄소년단",
+      "rank": 45,
+      "title": "Magic Shop",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/066\/390\/81066390_1526628038300_1_140x140.JPG",
+      "key": "hLf6yZPJyvM"
+    },
+    {
+      "singer": "김하온 (HAON) & 빈첸 (VINXEN)",
+      "rank": 46,
+      "title": "바코드 (Prod. by GroovyRoom)",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/049\/161\/81049161_1522404334730_1_140x140.JPG",
+      "key": "dDeewpPQOK0"
+    },
+    {
+      "singer": "방탄소년단",
+      "rank": 47,
+      "title": "134340",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/066\/390\/81066390_1526628038300_1_140x140.JPG",
+      "key": "awdkaGCkQRo"
+    },
+    {
+      "singer": "먼데이 키즈 (Monday Kiz)",
+      "rank": 48,
+      "title": "가을 안부",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/080\/992\/377\/80992377_1507877366286_1_140x140.JPG",
+      "key": "TMTTNDbqMMw"
+    },
+    {
+      "singer": "10cm",
+      "rank": 49,
+      "title": "폰서트",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/080\/982\/334\/80982334_1504248685088_1_140x140.JPG",
+      "key": "mOo8bVzN9M8"
+    },
+    {
+      "singer": "벤",
+      "rank": 50,
+      "title": "열애중",
+      "poster": "\/\/image.genie.co.kr\/Y\/IMAGE\/IMG_ALBUM\/081\/060\/985\/81060985_1525765022413_1_140x140.JPG",
+      "key": "ykrlqvEeeWI"
+    }
+  ]
+}

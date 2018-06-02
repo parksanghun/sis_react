@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <style type="text/css">
+        .row{
+            margin: 0px auto;
+            width: 800px;
+        }
+        h2 {
+            text-align: center;
+        }
+    </style>
+    <!--<script type="text/babel"></script>-->
+    <script type="text/javascript" src="http://code.jquery.com/jquery.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $.getJSON("music.json", function(data) {
+               $.each(data['datas'],function(key, value) {
+                    $('#music').append(
+                      "<tr>"
+                      +"<td>"+value.rank+"</td>"
+                      +"<td><img src="+value.poster+" width=60 height=60></td>"
+                      +"<td>"+value.title+"</td>"
+                      +"<td>"+value.singer+"</td>"
+                      +"<td><input type=button class='btn btn-sm btn-primary' value='동영상'/></td>"
+                      + "</tr>"
+                    );
+               });
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <table class="table table-hover">
+                <thread>
+                    <tr class="danger">
+                        <th>순위</th>
+                        <th></th>
+                        <th>노래명</th>
+                        <th>가수명</th>
+                        <th></th>
+                    </tr>
+                </thread>
+                <tbody id="music">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
